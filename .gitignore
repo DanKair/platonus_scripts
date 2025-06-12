@@ -1,0 +1,12 @@
+# Environment variables / Virtual environments
+.env
+Platonus/.env
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Miscellanious
+basic_practice
